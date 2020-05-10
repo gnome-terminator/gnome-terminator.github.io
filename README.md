@@ -3,6 +3,20 @@ Website for Terminator
 
 Hosted on: https://gnome-terminator.github.io
 
+## Contributing
+
+To run this site in development mode locally, you'll need Ruby 2.6.3 and bundler. The basic steps are:
+
+```
+$ git clone git@github.com:gnome-terminator/gnome-terminator.github.io.git
+$ cd gnome-terminator.github.io
+$ bundle install
+$ bundle exec jekyll serve
+```
+
+Then open your browser at http://localhost:4000.
+
+
 ## License
 
 Copyright (c) 2020 Contributors of Terminator
