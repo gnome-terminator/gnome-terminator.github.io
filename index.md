@@ -31,4 +31,15 @@ layout: home
   </a>
 </div>
 
+<div class="screenshot">
+  <a href="assets/images/terminator-top-gtk-dark.png"
+    target="_blank"
+  >
+    <img
+      src="assets/images/terminator-top-gtk-dark.png"
+      alt="Gnome Terminator Dark Theme on GTK with top"
+    />
+  </a>
+</div>
+
 For more information, take a look at the [about page](/about).
