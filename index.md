@@ -10,7 +10,8 @@ Terminator was originally developed by Chris Jones in 2007 as a simple, 300-ish 
 
 
 ## [Screenshots](#screenshots)
-[![Gnome Terminator Dark Theme Vim and Shells](assets/images/terminator-vim-shells-dark-1.png)](assets/images/terminator-vim-shells-dark-1.png)]
+[![Gnome Terminator Dark Theme Vim and Shells](assets/images/terminator-vim-shells-dark-1.png)](assets/images/terminator-vim-shells-dark-1.png)
+
 [![Gnome Terminator Light Theme with Shells and Asciiquarium](assets/images/terminator-light-man-asquiiquarium.png)](assets/images/terminator-light-man-asquiiquarium.png)
 For more information, take a look at the [about page](/about).
 
