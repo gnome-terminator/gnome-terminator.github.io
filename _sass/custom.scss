@@ -7,3 +7,19 @@
   margin-bottom: 2em;
 }
 
+@media (prefers-color-scheme: dark) {
+  .site-title {
+    color: lightgray !important;
+  }
+  header,
+  .site-footer {
+    border: none !important;
+  }
+  body {
+    color: gray;
+    background: #000;
+  }
+  a:hover {
+    color: #44f;
+  }
+}
