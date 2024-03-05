@@ -8,6 +8,7 @@ This is a fork of the original Terminator. In short, the maintainers seem to hav
 
 ## Relevant Links
 
+- [Documentation](https://gnome-terminator.readthedocs.io/en/latest/)
 - [Gnome Terminator Organization](https://github.com/gnome-terminator).
 - [Repository for Terminator](https://github.com/gnome-terminator/terminator).
 - [Repository for this website](https://github.com/gnome-terminator/gnome-terminator.github.io).
