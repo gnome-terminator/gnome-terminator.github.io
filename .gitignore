@@ -5,3 +5,4 @@ _site
 vendor
 .ruby-*
 .*.sw?
+Gemfile.lock
