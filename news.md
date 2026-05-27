@@ -4,6 +4,22 @@ title: News
 permalink: /news/
 ---
 
+### Plugins page added 
+
+Added a [plugins page](https://gnome-terminator.github.io/plugins/) to highlight 3rd party plugins.   There's a page at https://gnome-terminator.readthedocs.io/en/latest/plugins.html that lists 3rd party plugins but I'd like to have a more public place for them.
+
+
+### History plugin released
+
+[History Commands Plugin](https://github.com/Aravind-art/commads-history-plugin)
+
+A Terminator plugin that displays a searchable command history sidebar, making it easy to browse and re-execute previous commands.
+
+### Terminator 2.1.5 is released
+
+Another Year, another release [Terminator 2.1.5](https://github.com/gnome-terminator/terminator/releases/tag/v2.1.5) As usual, a lot of small bugfixes and quality of life improvements
+
+
 ### Terminator Remote Plugin released
 
 Thanks to Asif Amin, there's a new remote plugin.
